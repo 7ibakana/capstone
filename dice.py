@@ -13,3 +13,4 @@ while not want_to_quit:
     else:
     # Not typing anything and pressing enter will set want_to_quit to an empty string
         want_to_quit = input('Press enter to roll again, any other key to quit')
+    
